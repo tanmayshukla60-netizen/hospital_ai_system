@@ -1,0 +1,5 @@
+paste this in cmd open in folder gfg
+
+
+cd hospital_ai_system
+streamlit run app.py
